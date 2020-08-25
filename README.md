@@ -1,4 +1,4 @@
-# C++ Fundamentals Course Notes
+# C++ Course Notes
 
 * Language Basics
     * Variables: Fundamental types
